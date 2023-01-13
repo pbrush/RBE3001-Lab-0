@@ -1,2 +1,7 @@
 % Test Attempt 2
+<<<<<<< HEAD
 a = 1;
+=======
+a = 1;
+b = 2;
+>>>>>>> feature_x
